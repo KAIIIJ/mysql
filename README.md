@@ -4,11 +4,11 @@
 
 ### Heading III
 
-* Test if this is italics *
+*Test if this is italics*
 
 or
 
-** bold? **
+**bold?**
 
 maybe
 
